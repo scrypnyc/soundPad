@@ -26,11 +26,19 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="idF-fO-ppu">
                                                 <rect key="frame" x="0.0" y="0.0" width="187.5" height="333.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <color key="backgroundColor" red="0.74063045699320562" green="1" blue="0.62372005886160098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="28"/>
+                                                <state key="normal" title="A">
+                                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gbn-wf-4H5">
                                                 <rect key="frame" x="187.5" y="0.0" width="187.5" height="333.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <color key="backgroundColor" red="0.96341261792491639" green="0.58377690149712769" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="28"/>
+                                                <state key="normal" title="B">
+                                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -39,11 +47,19 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5ey-IN-Zs9">
                                                 <rect key="frame" x="0.0" y="0.0" width="187.5" height="333.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <color key="backgroundColor" red="0.50668464985478057" green="0.81858417152905072" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="28"/>
+                                                <state key="normal" title="C">
+                                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kam-ap-ANN">
                                                 <rect key="frame" x="187.5" y="0.0" width="187.5" height="333.5"/>
-                                                <state key="normal" title="Button"/>
+                                                <color key="backgroundColor" red="1" green="0.59950821100883012" blue="0.54642127267811758" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="28"/>
+                                                <state key="normal" title="D">
+                                                    <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
                                             </button>
                                         </subviews>
                                     </stackView>
