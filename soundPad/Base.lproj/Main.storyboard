@@ -31,6 +31,9 @@
                                                 <state key="normal" title="A">
                                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="aTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zXb-0J-iMJ"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gbn-wf-4H5">
                                                 <rect key="frame" x="187.5" y="0.0" width="187.5" height="333.5"/>
@@ -39,6 +42,9 @@
                                                 <state key="normal" title="B">
                                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="bTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yUg-jF-zuP"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -52,6 +58,9 @@
                                                 <state key="normal" title="C">
                                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="cTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fTA-H8-xjJ"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kam-ap-ANN">
                                                 <rect key="frame" x="187.5" y="0.0" width="187.5" height="333.5"/>
@@ -60,6 +69,9 @@
                                                 <state key="normal" title="D">
                                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="dTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cjU-yj-V7b"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
